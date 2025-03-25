@@ -1,4 +1,4 @@
-### Hi 👋, I’m Joao Pedro Bezerra
+### Hi guys, I’m Joao Pedro Bezerra
 
 ## About Me
 - 🔭 Software Development
