@@ -5,7 +5,7 @@
 - 🎓 Computer Science Student - PUCPR  (3/8)
 
 ## Get in Contact
-- 📫 You can reach me via Hotmail or Gmail **bezerra.j@pucpr.edu.br** 
+- 📫 You can reach me  **bezerra.j@pucpr.edu.br** 
 
 
 ## Connect with me:
