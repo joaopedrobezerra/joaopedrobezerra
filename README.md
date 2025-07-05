@@ -2,7 +2,7 @@
 
 ## About Me
 - 🔭 Software Development
-- 🎓 Computer Science Student - PUCPR  (3/8)
+- 🎓 Computer Science Student - PUCPR  (4/8)
 
 ## Get in Contact
 - 📫 You can reach me  **joao.pedrobezerra@outlook.com** 
