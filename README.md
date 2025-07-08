@@ -35,6 +35,6 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotape0712&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="mo1409" /></p>
-<p><img align="center" src="![jotape0712's Stats](https://github-readme-stats.vercel.app/api?username=jotape0712&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)" alt="mo1409" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jotape0712&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="mo1409" /></p>
 
 
