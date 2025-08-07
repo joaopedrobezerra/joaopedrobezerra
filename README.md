@@ -11,11 +11,11 @@ I also have a solid foundation in <strong>JavaScript</strong> and Front-End deve
 ## 🌟 About Me
 
 - 🎓 Computer Science student at PUCPR — 4rd semester
-- 📊 Interest in Data Science, Automation, and AI
-- 🧪 Mastering Python libraries like pandas and numpy for data analysis
+- 🚀 Currently learning React (JSX), Node.js and exploring Full-Stack development
 - 💻 Solid foundation in JavaScript and Front-End development
-- 🚀 Currently learning React (JSX) and exploring Full-Stack development
-- 🤝 Open to internship opportunities in Data Analysis or Software Development
+- 🧪 Mastering Python libraries like pandas and numpy for data analysis
+- 📊 Interest in Data Science, Automation, and AI
+- 🤝 Open to internship opportunities in Software Development or Data Analysis
 - 🌱 Passionate about solving problems efficiently and learning continuously
 
 ---
