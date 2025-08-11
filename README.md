@@ -1,11 +1,10 @@
 # 👋 Hello, I’m João Pedro Bezerra!
 
 <p align="left">
-Currently in the <strong>fourth semester of my Bachelor’s degree in Computer Science</strong> at PUCPR (Pontifical Catholic University of Paraná). <br>
-I have completed a <strong>Python for Data Science</strong> course and have a strong interest in <strong>data automation</strong> and <strong>artificial intelligence</strong>, focusing on mastering libraries such as <strong>pandas</strong> and <strong>numpy</strong> for data manipulation and analysis. <br>
-I also have a solid foundation in <strong>JavaScript</strong> and Front-End development and I’m currently expanding my skills in <strong>React (JSX)</strong> with the goal of becoming a Full-Stack developer.
+Atualmente no <strong>quarto semestre da graduação em Ciência da Computação</strong> pela PUCPR (Pontifícia Universidade Católica do Paraná). <br>
+Possuo uma base sólida em <strong>JavaScript</strong> e desenvolvimento Front-End, e estou expandindo meus conhecimentos em <strong>React (JSX)</strong> e <strong>Node.js</strong> com o objetivo de me tornar um <strong>desenvolvedor Full-Stack</strong> completo. <br>
+Tenho também interesse em aprofundar meus estudos em <strong>Java</strong>, especialmente para o desenvolvimento de <strong>aplicações robustas e escaláveis em nível empresarial</strong>, explorando seu ecossistema voltado para o backend.
 </p>
-
 ---
 
 ## 🌟 About Me
