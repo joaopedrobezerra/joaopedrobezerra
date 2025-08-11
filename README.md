@@ -1,9 +1,9 @@
 # 👋 Hello, I’m João Pedro Bezerra!
 
 <p align="left">
-Atualmente no <strong>quarto semestre da graduação em Ciência da Computação</strong> pela PUCPR (Pontifícia Universidade Católica do Paraná). <br>
-Possuo uma base sólida em <strong>JavaScript</strong> e desenvolvimento Front-End, e estou expandindo meus conhecimentos em <strong>React (JSX)</strong> e <strong>Node.js</strong> com o objetivo de me tornar um <strong>desenvolvedor Full-Stack</strong> completo. <br>
-Tenho também interesse em aprofundar meus estudos em <strong>Java</strong>, especialmente para o desenvolvimento de <strong>aplicações robustas e escaláveis em nível empresarial</strong>, explorando seu ecossistema voltado para o backend.
+Currently in the <strong>fourth semester of my Bachelor’s degree in Computer Science</strong> at PUCPR (Pontifical Catholic University of Paraná). <br>
+I have a solid foundation in <strong>JavaScript</strong> and Front-End development, and I’m currently expanding my skills in <strong>React (JSX)</strong> and <strong>Node.js</strong> with the goal of becoming a proficient <strong>Full-Stack developer</strong>. <br>
+I’m also interested in deepening my knowledge of <strong>Java</strong>, especially for building <strong>robust, scalable enterprise-level applications</strong> and exploring its ecosystem for backend development.
 </p>
 ---
 
