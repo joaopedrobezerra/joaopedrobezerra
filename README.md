@@ -9,7 +9,7 @@ I’m also interested in deepening my knowledge of <strong>Java</strong>, especi
 
 ## 🌟 About Me
 
-- 🎓 Computer Science student at PUCPR — 4rd semester
+- 🎓 Computer Science student at PUCPR — 4th semester
 - 🚀 Currently learning React (JSX), Node.js and exploring Full-Stack development
 - 💻 Solid foundation in JavaScript and Front-End development
 - 🧪 Mastering Python libraries like pandas and numpy for data analysis
