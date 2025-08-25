@@ -40,7 +40,7 @@ I’m also interested in deepening my knowledge of <strong>Java</strong>, especi
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libraries  
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,vite,spring)](https://skillicons.dev)
 
 ### 🛠️ Tools & Databases  
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,mysql,mongodb)](https://skillicons.dev)
