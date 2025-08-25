@@ -37,7 +37,7 @@ I’m also interested in deepening my knowledge of <strong>Java</strong>, especi
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" width="300px" align="right" />
 
 ### 💻 Languages  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libraries  
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,vite)](https://skillicons.dev)
