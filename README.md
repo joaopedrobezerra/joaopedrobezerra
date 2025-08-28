@@ -60,6 +60,15 @@ I’m also interested in deepening my knowledge of <strong>Java</strong>, especi
   Feel free to reach out — I’d love to share my motivations and discuss how I can add value to your team.
 </p>
 
+## 🌐 Portfolio
+
+<p align="left">
+  Confira meus projetos e trajetória em detalhes no meu portfólio: <br><br>
+  <a href="https://portfoliojp-chi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Acessar%20Portfólio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 <p align="left">
   <a href="mailto:joao.pedrobezerra@outlook.com" title="Email">
     <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Email"/>
