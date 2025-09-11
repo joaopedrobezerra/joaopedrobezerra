@@ -1,91 +1,80 @@
-# 👋 Hello, I’m João Pedro Bezerra!
+# 👋 Hello, I’m João Pedro Bezerra!  
 
-<p align="left">
-Currently in the <strong>fourth semester of my Bachelor’s degree in Computer Science</strong> at PUCPR (Pontifical Catholic University of Paraná). <br>
-I have a solid foundation in <strong>JavaScript</strong> and Front-End development, and I’m currently expanding my skills in <strong>React (JSX)</strong> and <strong>Node.js</strong> with the goal of becoming a proficient <strong>Full-Stack developer</strong>. <br>
-I’m also interested in deepening my knowledge of <strong>Java</strong>, especially for building <strong>robust, scalable enterprise-level applications</strong> and exploring its ecosystem for backend development.
-</p>
----
-
-## 🌟 About Me
-
-- 🎓 Computer Science student at PUCPR — 4th semester
-- 🚀 Currently learning React (JSX), Node.js and exploring Full-Stack development
-- 💻 Solid foundation in JavaScript and Front-End development
-- 🧪 Mastering Python libraries like pandas and numpy for data analysis
-- 🤝 Open to internship opportunities in Software Development or Data Analysis
-- 🌱 Passionate about solving problems efficiently and learning continuously
+<p align="left"> 
+  Currently in the <strong>fourth semester of my Bachelor’s degree in Computer Science</strong> at PUCPR (Pontifical Catholic University of Paraná). <br> 
+  I have a solid foundation in <strong>JavaScript</strong> and Front-End development, and I’m currently expanding my skills in <strong>React (JSX)</strong> and <strong>Node.js</strong> with the goal of becoming a proficient <strong>Full-Stack developer</strong>. <br> 
+  I’m also interested in deepening my knowledge of <strong>Java</strong>, especially for building <strong>robust, scalable enterprise-level applications</strong> and exploring its ecosystem for backend development. 
+</p> 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jotape0712&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotape0712&theme=tokyonight&layout=compact&hide_border=true" width="375"/>
-</div>
-
----
-
-## 🧰 Technologies & Tools
-
-<p align="left">
-  
-<div>
-  
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" width="300px" align="right" />
-
-### 💻 Languages  
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python)](https://skillicons.dev)
-
-### 🚀 Frameworks & Libraries  
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,vite,spring)](https://skillicons.dev)
-
-### 🛠️ Tools & Databases  
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,mysql,mongodb)](https://skillicons.dev)
-
-</div>
-
-</p>
-
-
+## 🌟 About Me  
+- 🎓 Computer Science student at PUCPR — 4th semester  
+- 🚀 Currently learning React (JSX), Node.js and exploring Full-Stack development  
+- 💻 Solid foundation in JavaScript and Front-End development   
+- 🤝 Open to internship opportunities in Software Development 
+- 🌱 Passionate about solving problems efficiently and learning continuously  
 
 ---
 
-## 🙋🏻 Let’s Connect!
-
-<p align="left">
-  I am highly motivated to contribute my skills and dedication to a team that values growth and learning. <br>
-  Feel free to reach out — I’d love to share my motivations and discuss how I can add value to your team.
-</p>
-
-## 🌐 Portfolio
-
-<p align="left">
-  Confira meus projetos e trajetória em detalhes no meu portfólio: <br><br>
-  <a href="https://portfoliojp-chi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Acessar%20Portfólio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="mailto:joao.pedrobezerra@outlook.com" title="Email">
-    <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/joao-pedro-bezerra-3a17a8303/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+## 📈 GitHub Stats  
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopedrobezerra&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="420"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrobezerra&theme=tokyonight&layout=compact&hide_border=true" width="375"/>  
+</div>  
 
 ---
 
-<div align="center">
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jotape0712&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=jotape0712&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="Streak graph" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=jotape0712&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="Trophy graph" />
-</div>
+## 🧰 Technologies & Tools  
+<p align="left">  
+  <div>  
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" width="300px" align="right" />  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
+  ### 💻 Languages  
+  [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python)](https://skillicons.dev)  
+
+  ### 🚀 Frameworks & Libraries  
+  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,vite,spring)](https://skillicons.dev)  
+
+  ### 🛠️ Tools & Databases  
+  [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,mysql,mongodb)](https://skillicons.dev)  
+  </div>  
+</p>    
+
+---
+
+---
+
+## 🌐 Portfolio  
+
+Take a look at my projects and journey in detail:  
+
+<a href="https://portfoliojp-chi.vercel.app/" target="_blank">  
+  <img src="https://img.shields.io/badge/-Visit%20Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>  
+</a>  
+
+---
+
+## 📬 Let’s Connect  
+
+<p align="left">  
+  <a href="mailto:joaopedrobezerradev@outlook.com" title="Email">  
+    <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Email"/>  
+  </a>  
+  <a href="https://www.linkedin.com/in/joao-pedro-bezerra-3a17a8303/" title="LinkedIn">  
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
+  </a>  
+</p>  
+
+---
+
+<div align="center">  
+  <br/>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaopedrobezerra&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true" />  
+  <br/>  
+  <img src="https://streak-stats.demolab.com?user=joaopedrobezerra&locale=en&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="Streak graph" />  
+  <br/>  
+  <img src="https://github-profile-trophy.vercel.app?username=joaopedrobezerra&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="Trophy graph" />  
+</div>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>  
