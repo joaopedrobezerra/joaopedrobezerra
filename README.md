@@ -20,7 +20,8 @@
 ## 📈 GitHub Stats  
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=joaopedrobezerra&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="420"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrobezerra&theme=tokyonight&layout=compact&hide_border=true" width="375"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrobezerra&theme=tokyonight&layout=compact&hide_border=true&hide=css,html" width="375"/>
+
 </div>  
 
 ---
