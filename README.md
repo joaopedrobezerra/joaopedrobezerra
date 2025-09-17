@@ -10,8 +10,8 @@
 
 ## 🌟 About Me  
 - 🎓 Computer Science student at PUCPR — 4th semester  
-- 🚀 Currently learning React (JSX), Node.js and exploring Full-Stack development  
-- 💻 Solid foundation in JavaScript and Front-End development   
+- 🚀 Currently learning Java and exploring Full-Stack development  
+- 💻 Solid JavaScript foundation in frameworks like React (JSX) and Node.js   
 - 🤝 Open to internship opportunities in Software Development 
 - 🌱 Passionate about solving problems efficiently and learning continuously  
 
