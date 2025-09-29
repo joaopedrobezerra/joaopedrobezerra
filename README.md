@@ -1,9 +1,11 @@
 # 👋 Hello, I’m João Pedro Bezerra!  
 
 <p align="left"> 
-  Currently in the <strong>fourth semester of my Bachelor’s degree in Computer Science</strong> at PUCPR (Pontifical Catholic University of Paraná). <br> 
-  I have a solid foundation in <strong>JavaScript</strong> and Front-End development, and I’m currently expanding my skills in <strong>React (JSX)</strong> and <strong>Node.js</strong> with the goal of becoming a proficient <strong>Full-Stack developer</strong>. <br> 
-  I’m also interested in deepening my knowledge of <strong>Java</strong>, especially for building <strong>robust, scalable enterprise-level applications</strong> and exploring its ecosystem for backend development. 
+ Currently in the fourth semester of my Bachelor's degree in Computer Science at PUCPR (Pontifical Catholic University of Paraná).
+I am focused on backend development with Java and the Spring Boot ecosystem, building robust, scalable, and maintainable applications.
+My experience includes designing RESTful APIs, integrating MySQL databases, and deploying applications on cloud platforms such as AWS and Google Cloud.
+I also have prior hands-on experience with React (JSX) and Node.js, which provides perspective on full-stack integration and frontend interaction.
+My goal is to become a Full-Stack Developer with strong backend expertise, delivering high-quality, end-to-end solutions.
 </p> 
 
 ---
@@ -35,7 +37,7 @@
   [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python)](https://skillicons.dev)  
 
   ### 🚀 Frameworks & Libraries  
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,vite,spring)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=spring,react,node)](https://skillicons.dev)  
 
   ### 🛠️ Tools & Databases  
   [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,mysql,mongodb)](https://skillicons.dev)  
