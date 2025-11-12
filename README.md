@@ -13,7 +13,7 @@ My goal is to become a Full-Stack Developer with strong backend expertise, deliv
 ## 🌟 About Me  
 - 🎓 Computer Science student at PUCPR — 4th semester  
 - 🚀 Currently learning Java and exploring Full-Stack development  
-- 💻 Solid JavaScript foundation in frameworks like React (JSX) and Node.js   
+- 💻 Solid Java foundation
 - 🤝 Open to internship opportunities in Software Development 
 - 🌱 Passionate about solving problems efficiently and learning continuously  
 
@@ -34,7 +34,7 @@ My goal is to become a Full-Stack Developer with strong backend expertise, deliv
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" width="300px" align="right" />  
 
   ### 💻 Languages  
-  [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,python)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)  
 
   ### 🚀 Frameworks & Libraries  
   [![My Skills](https://skillicons.dev/icons?i=spring,react,node)](https://skillicons.dev)  
